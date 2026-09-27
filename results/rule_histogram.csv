@@ -1,0 +1,12 @@
+clause,documents_affected,total_failed_checks,description
+7.18.5,11,70,"Links shall contain an alternate description via their Contents key as described in ISO 32000-1:2008, 14.9.3"
+7.18.1,11,68,"An annotation (except Widget annotations or hidden annotations, or those having rectangle outside the crop-box) shall have either Contents key or an Alt entry in the enclosing structure element"
+7.1,9,516,"The Metadata stream in the document's catalog dictionary shall contain a dc:title entry, where dc is the recommended prefix for the Dublin Core metadata schema as defined in the XMP specification, which clearly identifies the document"
+5,9,9,The PDF/UA version and conformance level of a file shall be specified using the PDF/UA Identification extension schema
+7.3,5,7,"Figure tags shall include an alternative representation or replacement text that represents the contents marked with the Figure tag as noted in ISO 32000-1:2008, 14.7.2, Table 323"
+7.2,4,339,Natural language for document metadata shall be determined
+7.21.4.2,3,4,"If the FontDescriptor dictionary of an embedded CID font contains a CIDSet stream, then it shall identify all CIDs which are present in the font program, regardless of whether a CID in the font is referenced or used by the PDF or not"
+7.21.4.1,3,4,"The font programs for all fonts used for rendering within a conforming file shall be embedded within that file, as defined in ISO 32000-1:2008, 9.9"
+6.2,3,3,"The document catalog dictionary shall include a MarkInfo dictionary containing an entry, Marked, whose value shall be true"
+7.18.3,1,4,"Every page on which there is an annotation shall contain in its page dictionary the key Tabs, and its value shall be S"
+7.5,1,1,"If the table's structure is not determinable via Headers and IDs, then structure elements of type TH shall have a Scope attribute"

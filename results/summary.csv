@@ -1,0 +1,16 @@
+entity,isCompliant,passedRules,failedRules,passedChecks,failedChecks
+bellingham,false,101,5,33725,34
+bend,false,99,7,6036,32
+caldwell,false,104,2,11220,4
+champaign,false,102,4,2839,10
+eauclaire,false,105,1,10609,1
+federalway,false,98,8,22249,20
+grandforks,false,101,5,13884,6
+idahofalls,false,93,13,90155,137
+kennewick,false,104,2,51902,4
+manhattan,false,103,3,11622,43
+medford,false,101,5,12,68
+meridian,false,99,7,5858,12
+pocatello,false,101,5,1572,5
+renton,false,100,6,1178,648
+twinfalls,false,105,1,12092,1

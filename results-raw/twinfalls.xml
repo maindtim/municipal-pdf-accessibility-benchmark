@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report>
+  <buildInformation>
+    <releaseDetails id="core" version="1.30.2" buildDate="2026-06-03T10:43:00-04:00"></releaseDetails>
+    <releaseDetails id="validation-model" version="1.30.2" buildDate="2026-06-03T10:46:00-04:00"></releaseDetails>
+    <releaseDetails id="apps" version="1.30.2" buildDate="2026-06-03T10:55:00-04:00"></releaseDetails>
+  </buildInformation>
+verapdf.bat : sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+En línea: 4 Carácter: 10
++   $out = & "C:\rock-tools\verapdf\verapdf.bat" -f ua1 agenda-original ...
++          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (sept 26, 2026 5...r parseOperator:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 9
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 12
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 15
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 18
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 20
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 23
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 25
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 28
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 30
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 33
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 35
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 38
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 40
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 43
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 45
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 48
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 50
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 53
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 55
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 58
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 61
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 62
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 65
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 66
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 69
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 71
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 74
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 76
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 79
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 82
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 6 0 obj): Nested MCID - 85
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 18 0 obj): Nested MCID - 2
+sept 26, 2026 5:04:15 P. M. org.verapdf.gf.model.factory.operators.OperatorParser parseOperator
+ADVERTENCIA: Content stream (object 18 0 obj): Nested MCID - 5
+  <jobs>
+    <job>
+      <item size="106382">
+        <name>C:\Users\adminlocal\.openclaw\workspace\experimento\exp-021\twinfalls\agenda-original.pdf</name>
+      </item>
+      <validationReport jobEndStatus="normal" profileName="PDF/UA-1 validation profile" statement="PDF file is not compliant with Validation Profile requirements." isCompliant="false">
+        <details passedRules="105" failedRules="1" passedChecks="12092" failedChecks="1">
+          <rule specification="ISO 14289-1:2014" clause="7.3" testNumber="1" status="failed" failedChecks="1" tags="alt-text,structure,figure">
+            <description>Figure tags shall include an alternative representation or replacement text that represents the contents marked with the Figure tag as noted in ISO 32000-1:2008, 14.7.2, Table 323</description>
+            <object>SEFigure</object>
+            <test>(Alt != null &amp;&amp; Alt != '') || ActualText != null</test>
+            <check status="failed">
+              <context>root/document[0]/StructTreeRoot[0](26 0 obj PDStructTreeRoot)/K[0](27 0 obj SEDocument Document)/K[0](28 0 obj SEP P)/K[0](29 0 obj SEFigure Figure)</context>
+              <errorMessage>Figure structure element neither has an alternate description nor a replacement text</errorMessage>
+            </check>
+          </rule>
+        </details>
+      </validationReport>
+      <duration start="1790453055062" finish="1790453055647">00:00:00.585</duration>
+    </job>
+  </jobs>
+  <batchSummary totalJobs="1" failedToParse="0" encrypted="0" outOfMemory="0" veraExceptions="0">
+    <validationReports compliant="0" nonCompliant="1" failedJobs="0">1</validationReports>
+    <featureReports failedJobs="0">0</featureReports>
+    <repairReports failedJobs="0">0</repairReports>
+    <duration start="1790453055030" finish="1790453055699">00:00:00.669</duration>
+  </batchSummary>
+</report>
+
